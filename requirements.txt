@@ -1,0 +1,32 @@
+# Jupyter environment
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.0.0
+notebook>=6.0.0
+
+# Core data manipulation and analysis
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Excel file reading support
+openpyxl>=3.0.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Time series analysis
+statsmodels>=0.13.0
+scipy>=1.7.0
+
+# Forecasting with Prophet
+prophet>=1.1.0
+
+# Additional dependencies for prophet
+holidays>=0.14.0
+scikit-learn>=1.0.0
+
+# Additional useful libraries
+tqdm>=4.60.0
+itertools-recipes
